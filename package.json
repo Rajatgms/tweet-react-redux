@@ -1,0 +1,32 @@
+{
+  "name": "tweet-react-redux",
+  "version": "1.0.0",
+  "description": "An example application for playing with asynchronous data in a React and Redux application.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajatgms/tweet-react-redux.git"
+  },
+  "author": "Rajat Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajatgms/tweet-react-redux/issues"
+  },
+  "homepage": "https://github.com/Rajatgms/tweet-react-redux#readme"
+}
